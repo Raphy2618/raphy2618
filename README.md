@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">A passionate frontend developer from Montreal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raphy2618&label=Profile%20views&color=0e75b6&style=flat" alt="raphy2618" /> </p>
-
-
-- 🌱 I just finished learning **at Le Wagon Bootcamp**
+- 🌱 I finished learning **at Le Wagon Bootcamp**
 
 - 📫 How to reach me **raphaelcohen007@gmail.com**
 
